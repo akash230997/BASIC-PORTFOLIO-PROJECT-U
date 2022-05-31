@@ -1,0 +1,32 @@
+@media screen and (max-width:500px) {
+    .cloud3{
+        display: none;
+    }
+    .cloud4{
+        display: none;
+    }
+    .cloud1{
+        position: absolute;
+        top: 400;
+        left: 100px;
+    }
+    .bg{
+        /* width: 30%;
+        height: 30%;
+        border-radius: 0%; */
+        display: none;
+    }
+    .pro1 u{
+        color: brown;
+    }
+    .gr{
+        color: rgb(17, 229, 236);
+    }
+    .scn{
+        display: none;
+    }
+    #top-container{
+        width: 100%;
+    }
+
+}
