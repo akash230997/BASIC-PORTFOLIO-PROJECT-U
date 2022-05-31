@@ -1,4 +1,4 @@
-@import url(/css/media\ screen.css);
+
 
 /********************Selectors********************/
 body{
@@ -42,10 +42,10 @@ h3{
 #top-container{
     margin-top: 0px;
     width: auto;
-    height: 800px;
-        border-top: 10px solid;
-    background-color: #11999E;
-    background-image: url(/Images/wallpaperflare.com_wallpaper\ \(2\).jpg);
+    height: 1000px;
+    border-top: 10px solid;
+    background-image: url(/Images/pexels-jakub-novacek-924824.jpg);
+    background-size: cover;
 }
 #mid-container{
     width: auto;
@@ -155,7 +155,7 @@ h3{
 .bg{
     margin-top: 60px;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 20px;
 }
 .cloud1{
     position: absolute;
