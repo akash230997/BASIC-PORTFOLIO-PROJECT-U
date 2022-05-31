@@ -44,13 +44,13 @@ h3{
     width: auto;
     height: 1000px;
     border-top: 10px solid;
-    background-image: url(/Images/pexels-jakub-novacek-924824.jpg);
+    background-image: url(../img/pexels-jakub-novacek-924824.jpg);
     background-size: cover;
 }
 #mid-container{
     width: auto;
     min-height: 1500px;
-    background-image: url(/Images/code-coding-laptop-programming.jpg);
+    background-image: url(../img/code-coding-laptop-programming.jpg);
     background-repeat: no-repeat, no-repeat;
     background-size: 89%;  
     background-position: 150px -200px;
